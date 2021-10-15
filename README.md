@@ -1,7 +1,7 @@
 <h4>Hi there, I'm Ridwan 👋 ,</h4>
 <p>🏢 I'm currently working on lecturer at UIN A-Raniry Banda Aceh
 <p>✨ Interested in Web and Mobile Programming
-<p>📫 You can reach me via Facebook, IG or Twitter
+<p>📫 You can reach me via <a href="https://web.facebook.com/ridwanmerdu/">Facebook</a>, <a href="https://www.instagram.com/ridwanmerdu/">IG</a> or <a href="https://twitter.com/WanMerdu">Twitter</a>
 <p>📚 Have a lot of books that I want to read based my interests. Suggest me one!
 
 <!--
